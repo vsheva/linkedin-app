@@ -6,8 +6,8 @@ const Sidebar = () => {
 
     const recentItem=(work)=>(
         <div className="sidebar__recentItem">
-            <span className="sidebar__hash">#</span>
-            <p className="sidebar__span">{work}</p>
+            <span className="sidebar__item">#</span>
+            <p>{work}</p>
         </div>
     )
 

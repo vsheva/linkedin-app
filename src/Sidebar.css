@@ -85,3 +85,15 @@
     font-weight: 700;
     cursor: pointer;
 }
+
+.sidebar__recentItem:hover{
+    background-color:whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+}
+
+.sidebar__item{
+    margin-right: 10px;
+    margin-left: 5px;
+}
