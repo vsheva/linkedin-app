@@ -11,12 +11,12 @@
     margin-bottom: 10px;
 }
 
-.sidebar__top h4 {
+.sidebar__top > h4 {
     color: gray;
     font-size: 12px;
 }
 
-.sidebar__top h2 {
+.sidebar__top > h2 {
     font-size: 18px;
 }
 
@@ -84,16 +84,28 @@
     color: gray;
     font-weight: 700;
     cursor: pointer;
+    margin-bottom: 5px;
+    padding: 5px;
 }
 
-.sidebar__recentItem:hover{
-    background-color:whitesmoke;
+.sidebar__recentItem:hover {
+    background-color: whitesmoke;
     border-radius: 10px;
     cursor: pointer;
     color: black;
 }
 
-.sidebar__item{
+.sidebar__hash {
     margin-right: 10px;
     margin-left: 5px;
+}
+
+.sidebar__item {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.sidebar__bottom > p {
+    font-size: 13px;
+    padding-bottom: 10px;
 }

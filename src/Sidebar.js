@@ -4,9 +4,9 @@ import "./Sidebar.css"
 
 const Sidebar = () => {
 
-    const recentItem=(work)=>(
+    const recentItem = (work) => (
         <div className="sidebar__recentItem">
-            <span className="sidebar__item">#</span>
+            <span className="sidebar__hash">#</span>
             <p>{work}</p>
         </div>
     )
@@ -14,8 +14,10 @@ const Sidebar = () => {
     return (
         <div className="sidebar">
             <div className="sidebar__top">
-                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3872&q=80" alt=""/>
-                <Avatar className="sidebar__avatar" />
+                <img
+                    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3872&q=80"
+                    alt=""/>
+                <Avatar className="sidebar__avatar"/>
                 <h2>Vally Shev</h2>
                 <h4>valera.sheva@gmail.com</h4>
             </div>
