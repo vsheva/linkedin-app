@@ -14,13 +14,14 @@
 .feed__input {
     border: 1px solid lightgray;
     border-radius: 30px;
+    padding: 10px;
     display: flex;
     color: gray;
-    padding: 10px;
+
     padding-left: 15px;
 }
 
-.feed__input form {
+.feed__input>form {
     display: flex;
     width: 100%;
 }
@@ -35,4 +36,9 @@
 
 button[type="submit"] {
     display: none;
+}
+
+.feed__inputOptions{
+    display: flex;
+    justify-content:space-evenly;
 }
