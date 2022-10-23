@@ -19,7 +19,7 @@
 #### For starting project enter : 
 
 * name (for example, Val Shev);
-* profile picture URL (for example, https://media-exp1.licdn.com/dms/image/D4E03AQH2gPhvlW9Nvg/profile-displayphoto-shrink_800_800/0/1664786666033?e=1672272000&v=beta&t=Bu6Tl74GxpzgBV6YaN515mWKAQX6eqP423lUkaLHMkA);
+* any profile picture URL (for example, https://media-exp1.licdn.com/dms/image/D4E03AQH2gPhvlW9Nvg/profile-displayphoto-shrink_800_800/0/1664786666033?e=1672272000&v=beta&t=Bu6Tl74GxpzgBV6YaN515mWKAQX6eqP423lUkaLHMkA);
 * email (for example, test@test.com);
 * password (for example, test1234);
 * hit "Sign In".
