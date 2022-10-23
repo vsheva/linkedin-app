@@ -25,8 +25,8 @@
 * hit "Sign In".
 
 
-#### Congratulations! You've just logged in.
-Try to register on your own.
+### Congratulations! You've just logged in.
+Try to register on your own. Check out the project.
 
 To run project use command: `npm start`
 
