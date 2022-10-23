@@ -6,15 +6,19 @@
 .feed__inputContainer {
     background-color: white;
     padding: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 
 .feed__input {
+    align-items: center;   /* добавил*/
+
+
     border: 1px solid lightgray;
     border-radius: 30px;
-    padding: 10px;
+    /*Fpadding: 10px;*/
+    padding: 7px;
     display: flex;
     color: gray;
 
@@ -34,7 +38,7 @@
     font-weight: 600;
 }
 
-button[type="submit"] {
+.feed__button{
     display: none;
 }
 

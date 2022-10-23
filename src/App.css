@@ -7,5 +7,9 @@
 
 .app__body{
     display: flex;
-    width:100vw; /*добавил*/
+    margin-top:35px;
+    max-width: 1200px;
+    max-left: 20px;
+    margin-right:20px;
+    /*width:100vw; !*добавил!*!*/
 }
