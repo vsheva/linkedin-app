@@ -12,7 +12,7 @@
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-- [Authentication](https://en.wikipedia.org/wiki/Authentication)
+- [Authentication, registration, login/logout](https://en.wikipedia.org/wiki/Authentication)
 - [Firebase](https://www.google.com/search?q=firebase&oq=firebase+&aqs=chrome..69i57j35i39j0i67j0i512j69i60l4.5860j0j7&sourceid=chrome&ie=UTF-8)
 
 
