@@ -8,7 +8,6 @@
 - [BEM](https://en.bem.info/methodology/)
 - [React JavaScript library](https://reactjs.org/)
 - [React Hooks](https://reactjs.org/docs/hooks-faq.html#gatsby-focus-wrapper)
-- [React-router](https://reactrouter.com/web/guides/quick-start)
 - [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
