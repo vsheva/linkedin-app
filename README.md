@@ -1,10 +1,11 @@
-# [LinkedIn project](https://linkedin-clone-7f429.web.app/)
+# [LinkedIn clone](https://linkedin-clone-7f429.web.app/)
 
 ### The tech stack is:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [Material UI](https://mui.com)
 - [BEM](https://en.bem.info/methodology/)
 - [React JavaScript library](https://reactjs.org/)
 - [React Hooks](https://reactjs.org/docs/hooks-faq.html#gatsby-focus-wrapper)
