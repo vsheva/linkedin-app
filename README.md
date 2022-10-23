@@ -1,6 +1,6 @@
 # [LinkedIn project](https://linkedin-clone-7f429.web.app/)
 
-#### The tech stack is:
+### The tech stack is:
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -24,7 +24,7 @@
 * password (for example, test1234);
 * hit "Sign In".
 
-Congratulations! You've just logged in.
+#### Congratulations! You've just logged in.
 Try to register on your own.
 
 To run project use command: `npm start`
