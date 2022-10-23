@@ -18,7 +18,7 @@
 - [Database](https://www.google.com/search?q=firebase&oq=firebase+&aqs=chrome..69i57j35i39j0i67j0i512j69i60l4.5860j0j7&sourceid=chrome&ie=UTF-8)
 
 
-### To look at the project enter : 
+### To check out the project enter : 
 
 * name (for example, Val Shev);
 * any profile picture URL (for example, https://media-exp1.licdn.com/dms/image/D4E03AQH2gPhvlW9Nvg/profile-displayphoto-shrink_800_800/0/1664786666033?e=1672272000&v=beta&t=Bu6Tl74GxpzgBV6YaN515mWKAQX6eqP423lUkaLHMkA);
