@@ -15,9 +15,16 @@
 - [Authentication](https://en.wikipedia.org/wiki/Authentication)
 - [Firebase](https://www.google.com/search?q=firebase&oq=firebase+&aqs=chrome..69i57j35i39j0i67j0i512j69i60l4.5860j0j7&sourceid=chrome&ie=UTF-8)
 
-#### Available Scripts
+#### For starting project enter
 
-To build project use command: `npm run build`
+- name (for example, Val Shev);
+- profile picture URL;
+- email (for example, test@test.com)
+- password (for example, test1234)
+- hit "Sign In"
+
+Congratulations! You've just logged in.
+Try to register on your own.
 
 To run project use command: `npm start`
 
