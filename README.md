@@ -34,5 +34,5 @@ To run project use command: `npm start`
 
 
 ### Author
-- Valerii Shevchenko
+- V. Shevchenko
 
