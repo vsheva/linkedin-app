@@ -1,4 +1,4 @@
-# [LinkedIn clone](https://linkedin-clone-7f429.web.app/)
+# [LinkedIn app](https://linkedin-clone-7f429.web.app/)
 
 ### The tech stack is:
 
